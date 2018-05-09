@@ -1,0 +1,5 @@
+%module "matplot"
+%include "std_vector.i"
+%include "std_string.i"
+%include "std_complex.i"
+%include "std_pair.i"
